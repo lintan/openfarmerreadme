@@ -6,10 +6,10 @@
 
 ## Anchor钱包版本
 
-* [Anchor版本代码下载教程](anchor-qian-bao-ban-ben/anchor-ban-ben-dai-ma-xia-zai-jiao-cheng.md)
-* [Page 1](anchor-qian-bao-ban-ben/page-1.md)
+* [Anchor版本代码下载教程](anchor-ban-ben-an-zhuang-jiao-cheng.md)
+* [Anchor钱包EXE打包版下载教程](anchor-qian-bao-ban-ben/anchor-qian-bao-exe-da-bao-ban-xia-zai-jiao-cheng.md)
 
 ## Wax云钱包版本
 
-* [WAX版本安装教程](wax-yun-qian-bao-ban-ben/wax-ban-ben-an-zhuang-jiao-cheng.md)
+* [WAX版本安装教程](wax-ban-ben-an-zhuang-jiao-cheng.md)
 * [Wax](wax-yun-qian-bao-ban-ben/wax.md)

@@ -6,5 +6,5 @@
 
 点击【code】-〉【Download ZIP】下载代码
 
-![](../.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
