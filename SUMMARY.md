@@ -6,6 +6,7 @@
 
 ## Anchor钱包版本
 
+* [Anchor钱包打包版main.exe安装教程](anchor-qian-bao-ban-ben/anchor-qian-bao-da-bao-ban-main.exe-an-zhuang-jiao-cheng.md)
 * [Anchor版本代码下载教程](anchor-ban-ben-an-zhuang-jiao-cheng.md)
 * [Anchor钱包EXE打包版下载教程](anchor-qian-bao-ban-ben/anchor-qian-bao-exe-da-bao-ban-xia-zai-jiao-cheng.md)
 
