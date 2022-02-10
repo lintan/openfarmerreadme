@@ -2,7 +2,8 @@
 
 * [项目开源地址](README.md)
 * [功能说明](gong-neng-shuo-ming.md)
-* [常见问题](chang-jian-wen-ti.md)
+* [Anchor版本常见问题](anchor-ban-ben-chang-jian-wen-ti.md)
+* [WAX版本常见问题](wax-ban-ben-chang-jian-wen-ti.md)
 
 ## Anchor钱包版本
 
