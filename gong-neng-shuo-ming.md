@@ -14,7 +14,7 @@ Wax链的账号，例如我的账号： 4lrzu.wam（WAX云钱包）、openfarmer
 
 ![](<.gitbook/assets/image (1).png>)
 
-3、我使用的是自由鲸，还算稳定[https://www.freewhale.us/auth/register?code=v0cQ](https://www.freewhale.us/auth/register?code=v0cQ)
+3、我使用的是自由鲸，还算稳定，购买链接：[https://www.freewhale.us/auth/register?code=v0cQ](https://www.freewhale.us/auth/register?code=v0cQ)
 
 #### 节点：
 
@@ -34,14 +34,14 @@ Wax链的账号，例如我的账号： 4lrzu.wam（WAX云钱包）、openfarmer
 
 #### 功能：
 
-1. 建造
-2. 挖矿
-3. 养鸡
-4. 作物浇水
-5. 养牛
-6. 繁殖
-7. 会员
-8. 会员存储
+1. 建造：第一次需手动开始建造，后续会自动
+2. 挖矿：工具自动挖矿
+3. 养鸡：给鸡喂大麦（支持从鸡蛋开始喂）
+4. 作物浇水：大麦和玉米的浇水
+5. 养牛：给牛喂大麦（支持小牛犊喂牛奶）
+6. 繁殖：公牛和母牛繁殖，喂玉米
+7. 会员：会员卡每天点击一次
+8. 会员存储：必须和【会员】同时开启才能使用，一个银卡可以存储2小时，开启后一个工具的挖矿时间是3小时一次。
 
 #### 5%自动提现：
 
