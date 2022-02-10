@@ -10,4 +10,4 @@
 
 一般选择最新版下载
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)

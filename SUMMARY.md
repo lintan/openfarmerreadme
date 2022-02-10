@@ -15,4 +15,3 @@
 ## Wax云钱包版本
 
 * [WAX版本安装教程](wax-ban-ben-an-zhuang-jiao-cheng.md)
-* [Wax](wax-yun-qian-bao-ban-ben/wax.md)
