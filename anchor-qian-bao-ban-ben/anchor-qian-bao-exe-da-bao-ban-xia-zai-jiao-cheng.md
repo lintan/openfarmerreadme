@@ -6,7 +6,7 @@
 
 点击页面右边的Releases选择版本
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 一般选择最新版下载
 
